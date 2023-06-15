@@ -1,0 +1,7 @@
+.container .text {
+    font-size: 30px;
+    backface-visibility: visible;
+    background-color: burlywood;
+    color: coral;
+}
+    
